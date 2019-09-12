@@ -1,1 +1,1 @@
-# Walk-Run-App-Tracker---Android
+# Walk-Run-App-Tracker---Android App
